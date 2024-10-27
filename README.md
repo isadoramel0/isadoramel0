@@ -4,7 +4,7 @@
 
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com JavaScript, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
+🌐 Tenho experiência em trabalhar com JavaScript, C++ e suas bibliotecas e python<br>
 📚 Estou estudando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para isadoragmc23@gmail.com <br>
 <br>
@@ -14,15 +14,12 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Isadora, tenho 20 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 82,41). Iniciei meus estudos na área da Tecnologia aos 18 anos.<br>
+Olá! Meu nome é Isadora, tenho 20 anos e sou estudante de ciência da computação na Universidade Federal de Lavras. Iniciei meus estudos na área da Tecnologia aos 18 anos.<br>
 
 ### Hard Skills:
 
-Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
+Python 
 SQL
-Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs)
-Estatística descritiva e inferencial aplicada à análise de dados
-Excel e PowerBI
 C++
 JavaScript (React.Js)
 Git
