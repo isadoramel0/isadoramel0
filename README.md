@@ -48,14 +48,5 @@ Desenvolvimento de Projeto em Grafos e estruturas de Dados.
 
 Quanto aos idiomas, sou fluente em português, e possuo inglês básico.
 
-## Repositórios:
-
-
-
-
- 
-
-No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
-<br>
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animada para compartilhar meu conhecimento e colaborar em projetos interessantes.
